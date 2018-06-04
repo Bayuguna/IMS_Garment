@@ -1,0 +1,112 @@
+[
+    {
+        "id": "7",
+        "jenis_kain": "Batik",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Biru",
+        "panjang_kain": 1000,
+        "harga": "50000",
+        "action": "delete",
+        "status": "1"
+    },
+    {
+        "id": "8",
+        "jenis_kain": "Batik",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Biru",
+        "panjang_kain": 2000,
+        "harga": "120000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "9",
+        "jenis_kain": "Kasa",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Kasar",
+        "warna_kain": "Putih",
+        "panjang_kain": 100,
+        "harga": "20000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "10",
+        "jenis_kain": "Kasut",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Biru Dongker",
+        "panjang_kain": 200,
+        "harga": "50000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "11",
+        "jenis_kain": "Parasut",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Pink",
+        "panjang_kain": 100,
+        "harga": "40000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "12",
+        "jenis_kain": "Batik",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Pink",
+        "panjang_kain": 200,
+        "harga": "10000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "6",
+        "jenis_kain": "Kain Sutra",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Putih",
+        "panjang_kain": 3000,
+        "harga": "10000",
+        "action": "update",
+        "status": "1"
+    },
+    {
+        "id": "11",
+        "jenis_kain": "Parasut",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Abu",
+        "panjang_kain": 100,
+        "harga": "40000",
+        "action": "update",
+        "status": "1"
+    },
+    {
+        "id": "13",
+        "jenis_kain": "Sutra",
+        "kwalitas_kain": "KW super",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Biru",
+        "panjang_kain": 50,
+        "harga": "200000",
+        "action": "insert",
+        "status": "1"
+    },
+    {
+        "id": "14",
+        "jenis_kain": "Kanvas",
+        "kwalitas_kain": "KW super",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Merah Muda",
+        "panjang_kain": 120,
+        "harga": "5000",
+        "action": "insert",
+        "status": "1"
+    }
+]

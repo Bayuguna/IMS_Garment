@@ -1,0 +1,13 @@
+[
+    {
+        "id": "6",
+        "jenis_kain": "Kain Sutra",
+        "kwalitas_kain": "Original",
+        "tekstur_kain": "Halus",
+        "warna_kain": "Merah",
+        "panjang_kain": 3000,
+        "harga": "10000",
+        "action": "update",
+        "status": "1"
+    }
+]
